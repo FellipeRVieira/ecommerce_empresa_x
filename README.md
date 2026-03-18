@@ -44,3 +44,11 @@ __Melhoria 1__, _Melhoria 2_
 Contribuidor principal: https://www.github.com/FellipeRVieira
 
 [![Logo do PHP](https://pt.wikipedia.org/wiki/PHP)](https://www.github.com/FellipeRVieira)
+
+## Código da função soma
+
+```javascript
+function soma(a, b) {
+    return = a + b;
+}
+```
