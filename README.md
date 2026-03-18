@@ -42,3 +42,5 @@ __Melhoria 1__, _Melhoria 2_
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuidor principal: https://www.github.com/FellipeRVieira
+
+[![Logo do PHP](https://pt.wikipedia.org/wiki/PHP)](https://www.github.com/FellipeRVieira)
